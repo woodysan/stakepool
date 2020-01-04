@@ -13,7 +13,7 @@
     },
     "public_address": "/ip4/IPheree/tcp/3001",
     "listen_address": "/ip4/0.0.0.0/tcp/3001",
-    "max_connections": 4096,
+    "max_connections": 1024,
     "max_unreachable_nodes_to_connect_per_event": 64,
     "trusted_peers": [
   {
